@@ -1,0 +1,6 @@
+{
+  "name": "AI-Based Career Guidance System",
+  "description": "Interactive AI-Based Career Guidance System using Student Profiling, Random Forest Classification, Cosine Similarity Matching, and Skill Gap Analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
